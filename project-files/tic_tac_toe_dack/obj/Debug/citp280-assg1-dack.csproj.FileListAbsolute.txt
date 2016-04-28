@@ -1,0 +1,13 @@
+C:\hp-school\citp280\assg1\tic_tac_toe_dack\tic_tac_toe_dack\bin\Debug\tic_tac_toe_dack.exe.config
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\bin\Debug\tic_tac_toe_dack.exe.config
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\bin\Debug\tic_tac_toe_dack.exe
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\bin\Debug\tic_tac_toe_dack.pdb
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\obj\Debug\tic_tac_toe_dack.csprojResolveAssemblyReference.cache
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\obj\Debug\citp280_assg1_dack.frmTicTacToe.resources
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\obj\Debug\citp280_assg1_dack.Properties.Resources.resources
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\obj\Debug\tic_tac_toe_dack.csproj.GenerateResource.Cache
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\obj\Debug\tic_tac_toe_dack.exe
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack\tic_tac_toe_dack\obj\Debug\tic_tac_toe_dack.pdb
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack - Copy\tic_tac_toe_dack\bin\Debug\tic_tac_toe_dack.exe.config
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack - Copy\tic_tac_toe_dack\obj\Debug\tic_tac_toe_dack.exe
+C:\hp-school\CITP280-Advanced-C-Sharp\assg1\tic_tac_toe_dack - Copy\tic_tac_toe_dack\obj\Debug\tic_tac_toe_dack.pdb
